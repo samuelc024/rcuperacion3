@@ -1,0 +1,2 @@
+from transporte import*
+obtener_informacion_de_transportes(transportes)
